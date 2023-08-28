@@ -2,9 +2,9 @@
 Next.js 13 Authentication system using JSON Web Tokens
 
 > Libraries used
-- Zod
-- Jose
-- Bcryptjs
+- Zod - For Validation Schema
+- Jose - For generating and verifying JWT tokens
+- Bcryptjs - For hashing passwords
 
 > How to run
 
