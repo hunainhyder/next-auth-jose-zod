@@ -22,3 +22,13 @@ Use this command to run the api
 ```
 pnpm run dev
 ```
+
+> Testing the API
+
+You can test this API in postman
+
+- First run the API using `pnpm run dev` command
+- Then in Postman go to `/api/auth/register` endpoint and send new user registeration data in request body using POST method.
+- Then in Postman go to `/api/auth/login` endpoint and send new user registeration data in request body using POST method.
+- Then in Postman go to `/api/users/me` endpoint and send new user registeration data in request body using POST method.
+- Then in Postman go to `/api/auth/logout` endpoint and send new user registeration data in request body using POST method.
