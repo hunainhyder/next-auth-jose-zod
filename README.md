@@ -35,3 +35,12 @@ You can test this API in postman
 
 Sample Test Images
 
+![alt text]([http://url/to/img.png](https://codevoweb.com/wp-content/uploads/2023/05/Next.js-13-JWT-Authentication-API-Register-New-User.webp?ezimgfmt=ng:webp/ngcb1)https://codevoweb.com/wp-content/uploads/2023/05/Next.js-13-JWT-Authentication-API-Register-New-User.webp?ezimgfmt=ng:webp/ngcb1)
+
+![alt text]([http://url/to/img.png](https://codevoweb.com/wp-content/uploads/2023/05/Next.js-13-JWT-Authentication-API-Login-User.webp?ezimgfmt=ng:webp/ngcb1)https://codevoweb.com/wp-content/uploads/2023/05/Next.js-13-JWT-Authentication-API-Login-User.webp?ezimgfmt=ng:webp/ngcb1)
+
+![alt text](![image](https://github.com/Hunain2003/next-auth-jose-zod/assets/65592359/6bb4f718-3d3f-45b1-aa00-d6bbc71a6ef6)
+)
+
+![alt text]([http://url/to/img.png](https://codevoweb.com/wp-content/uploads/2023/05/Next.js-13-JWT-Authentication-API-Logout-User.webp?ezimgfmt=ng:webp/ngcb1)https://codevoweb.com/wp-content/uploads/2023/05/Next.js-13-JWT-Authentication-API-Logout-User.webp?ezimgfmt=ng:webp/ngcb1)
+
